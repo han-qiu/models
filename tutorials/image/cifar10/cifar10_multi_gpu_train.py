@@ -26,6 +26,7 @@ System        | Step Time (sec/batch)  |     Accuracy
 1 Tesla K20m  | 0.35-0.60              | ~86% at 60K steps  (5 hours)
 1 Tesla K40m  | 0.25-0.35              | ~86% at 100K steps (4 hours)
 精度掉了两个点
+Why?
 2 Tesla K20m  | 0.13-0.20              | ~84% at 30K steps  (2.5 hours)
 3 Tesla K20m  | 0.13-0.18              | ~84% at 30K steps
 4 Tesla K20m  | ~0.10                  | ~84% at 30K steps
